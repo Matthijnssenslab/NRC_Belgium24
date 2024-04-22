@@ -12,7 +12,5 @@ You can find codes of figures, codes used to create these figures in this folder
     │   ├── code
     │   └── png
     └── supplementary_files
-        ├── Supplementary_1.R
-        ├── Supplementary_2.R
-        └── Supplementary_3.R
+
 ```
